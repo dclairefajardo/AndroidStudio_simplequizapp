@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">CPET-15L QUIZLET!</string>
+    <string name="sinong_laging_puyat_sa_kanila_n_n_a_claire_n_n_b_jake_and_paul_n_n_c_mj">Sinong laging puyat sa kanila? \n\n A) Claire \n\n B) Jake and Paul \n\n C) MJ</string>
+    <string name="a">A</string>
+    <string name="b">B</string>
+    <string name="c">C</string>
+    <string name="cpet_15l_quizlet" />
+</resources>
